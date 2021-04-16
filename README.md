@@ -1,7 +1,8 @@
 # pseudo package:
 
-pseudo package, energy bands of tetrahedral semiconductors by pseudopotential calculation
-written by Lucio Andreani, lucio.andreani@unipv.it, November 2020
+## pseudo package, energy bands of tetrahedral semiconductors by pseudopotential calculation
+
+### written by Lucio Andreani, lucio.andreani@unipv.it, November 2020
 
 Empty lattice bands: empty.py or empty1.py, data and functions are inside
 Pseudopotential bands: pseudo.py with data file pseudo.dat and functions read.py, plot.py, sub.py
