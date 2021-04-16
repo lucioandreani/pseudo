@@ -2,7 +2,8 @@
 
 ## Energy bands of tetrahedral semiconductors by pseudopotential calculation
 
-### written by Lucio Andreani, lucio.andreani@unipv.it, November 2020
+#### written by Lucio Andreani, Physics Department, University of Pavia<br>
+lucio.andreani@unipv.it, November 2020
 
 To calculate empty lattice bands: empty.py or empty1.py, data and functions are inside the script
 
