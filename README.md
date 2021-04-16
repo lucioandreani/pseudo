@@ -1,11 +1,12 @@
 # pseudo package:
 
-## nergy bands of tetrahedral semiconductors by pseudopotential calculation
+## Energy bands of tetrahedral semiconductors by pseudopotential calculation
 
 ### written by Lucio Andreani, lucio.andreani@unipv.it, November 2020
 
-Empty lattice bands: empty.py or empty1.py, data and functions are inside
-Pseudopotential bands: pseudo.py with data file pseudo.dat and functions read.py, plot.py, sub.py
+To calculate empty lattice bands: empty.py or empty1.py, data and functions are inside the script
+
+To calculate pseudopotential energy bands: pseudo.py with data file pseudo.dat and functions read.py, plot.py, sub.py
 
 Gnuplot files for plotting: empty.gnu and pseudo.gnu
 Can be called using scripts ple and pl
