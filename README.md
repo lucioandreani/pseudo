@@ -8,10 +8,10 @@ To calculate empty lattice bands: empty.py or empty1.py, data and functions are 
 
 To calculate pseudopotential energy bands: pseudo.py with data file pseudo.dat and functions read.py, plot.py, sub.py
 
-Gnuplot files for plotting: empty.gnu and pseudo.gnu\\
+Gnuplot files for plotting: empty.gnu and pseudo.gnu<br>
 Can be called using scripts ple and pl
 
-Requirements: python3, scipy, numpy, matplotlib\\
+Requirements: python3, scipy, numpy, matplotlib<br>
 For plotting: gnuplot with pdf viewer
 
 Version 1.0, 8 November 2020: reads data and runs single-shot
