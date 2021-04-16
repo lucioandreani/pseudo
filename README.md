@@ -1,6 +1,6 @@
 # pseudo package:
 
-## pseudo package, energy bands of tetrahedral semiconductors by pseudopotential calculation
+## nergy bands of tetrahedral semiconductors by pseudopotential calculation
 
 ### written by Lucio Andreani, lucio.andreani@unipv.it, November 2020
 
