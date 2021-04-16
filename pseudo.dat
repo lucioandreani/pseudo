@@ -1,0 +1,61 @@
+1# 5.43         aret=lattice constant (A)
+2# -0.211 0.04 0.08    v3s,v8s,v11s=simmetric pseudopotential form factors
+3# 0. 0. 0.     v4a,v8a,v11a=antisimmetric pseudopot. form factors
+4# 20                   # nk= number of kappa points along each line in BZ
+5# 5                    # gmax=maximum modulus of reciprocal lattice vector, in units of 2\pi/a --> determines the number npw of plane waves: min is 2
+6# 20                    # nmax= index number for generating reciprocal lattice vectors, choose high enough (at least 10)
+7# 1e-12                # upper=numerical tolerance parameter: upper limit for evaluating zero
+8# -15. 10. 6           # ymin,ymax,ny=limiting values and tick number for plot
+9# 1                    # jplot=flag for plot: =0 does not plot, =1 plots
+####  end of data, do not change or remove this line! ####
+
+
+Si:
+1# 5.43         aret=lattice constant (A)
+2# -0.211 0.04 0.08    v3s,v8s,v11s=simmetric pseudopotential form factors
+3# 0. 0. 0.     v4a,v8a,v11a=antisimmetric pseudopot. form factors
+
+Ge:
+1# 5.66         aret=lattice constant (A)
+2# -0.269 0.038 0.035    v3s,v8s,v11s=simmetric pseudopotential form factors
+3# 0. 0. 0.     v4a,v8a,v11a=antisimmetric pseudopot. form factors
+
+GaAs:
+1# 5.65         aret=lattice constant (A)
+2# -0.252 0. 0.08    v3s,v8s,v11s=simmetric pseudopotential form factors
+3#  0.068 0.066 0.012     v4a,v8a,v11a=antisimmetric pseudopot. form factors
+
+GaP:
+1# 5.45         aret=lattice constant (A)
+2# -0.249 0.017 0.083  v3s,v8s,v11s=simmetric pseudopotential form factors
+3#  0.081 0.055 0.003    v4a,v8a,v11a=antisimmetric pseudopot. form factors
+
+InAs:
+1# 6.04         aret=lattice constant (A)
+2# -0.27 0.02 0.041    v3s,v8s,v11s=simmetric pseudopotential form factors
+3#  0.078 0.038 0.036     v4a,v8a,v11a=antisimmetric pseudopot. form factors
+
+InSb:
+1# 6.48         aret=lattice constant (A)
+2# -0.25 0.01 0.044    v3s,v8s,v11s=simmetric pseudopotential form factors
+3#  0.049 0.038 0.01     v4a,v8a,v11a=antisimmetric pseudopot. form factors
+
+ZnSe:
+1# 5.67         aret=lattice constant (A)
+2# -0.23 0.01 0.06    v3s,v8s,v11s=simmetric pseudopotential form factors
+3#  0.18 0.12 0.03     v4a,v8a,v11a=antisimmetric pseudopot. form factors
+
+CdTe:
+1# 6.48         aret=lattice constant (A)
+2# -0.245 -0.015 0.073    v3s,v8s,v11s=simmetric pseudopotential form factors
+3#  0.073 0.089 0.084     v4a,v8a,v11a=antisimmetric pseudopot. form factors
+
+1# 5.66                 # aret=lattice constant (A)
+2# -0.269 0.038 0.035   #  v3s,v8s,v11s=simmetric pseudopotential form factors
+3# 0. 0. 0.             # v4a,v8a,v11a=antisimmetric pseudopot. form factors
+4# 20                   # nk= number of kappa points along each line in BZ
+5# 5.                   # gmax=maximum modulus of reciprocal lattice vector, in units of 2\pi/a --> determines the number npw of plane waves
+6# 5                    # nmax= index number for generating reciprocal lattice vectors, choose high enough to get the bands up to the energy you wish
+7# 1e-12                # upper=numerical tolerance parameter: upper limit for evaluating zero
+8# -13. 5. 19           # ymin,ymax,ny=limiting values and tick number for plot
+####  end of data, do not change or remove this line! ####
