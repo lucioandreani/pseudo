@@ -1,4 +1,4 @@
-# pseudo package:
+# pseudo
 
 ## Energy bands of tetrahedral semiconductors by empirical pseudopotential
 
