@@ -14,7 +14,7 @@ Can be called using scripts ple and pl
 Requirements: python3, scipy, numpy, matplotlib<br>
 For plotting: gnuplot with pdf viewer
 
-Installation: clone the repository, or [download](https://github.com/lucioandreani/pseudo/pseudo_v2.0.tar) and unpack the tar file. 
+Installation: clone the repository, or [download by right-clickng here](https://github.com/lucioandreani/pseudo/pseudo_v2.0.tar) and unpack the tar file. 
 
 Version 1.0, 8 November 2020: reads data and runs single-shot
 
